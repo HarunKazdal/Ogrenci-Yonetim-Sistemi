@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\bin\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.exe
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\bin\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.deps.json
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\bin\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.runtimeconfig.json
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\bin\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.dll
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\bin\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.pdb
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\obj\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\obj\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\obj\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.AssemblyInfo.cs
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\obj\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\obj\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.dll
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\obj\Debug\net6.0\refint\Öğrenci-Yönetim-Uygulaması.dll
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\obj\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.pdb
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\obj\Debug\net6.0\Öğrenci-Yönetim-Uygulaması.genruntimeconfig.cache
+C:\Users\User\Desktop\Projelerim\4.Hafta\Öğrenci-Yönetim-Sistemi\obj\Debug\net6.0\ref\Öğrenci-Yönetim-Uygulaması.dll
